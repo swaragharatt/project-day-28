@@ -70,5 +70,4 @@ Output: Real-time Q&A session in chat interface
 Author
 Swara Gharat
 
-pgsql
-Copy code
+
