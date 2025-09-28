@@ -1,7 +1,7 @@
-#project-day-28
-#Mini E-Commerce Backend & Shop 
+# project-day-28
+# Mini E-Commerce Backend & Shop 
 
-A Flask (Python)-powered web application that serves as a minimal e-commerce platform, providing both a RESTful API for product data and a visual frontend shop built with Jinja templates.
+A **Flask (Python)-powered web application** that serves as a minimal e-commerce platform, providing both a RESTful API for product data and a visual frontend shop built with Jinja templates.
 The project demonstrates essential backend functions (CRUD) and applies modern, dark-themed styling to the visual component.
 
 ---
